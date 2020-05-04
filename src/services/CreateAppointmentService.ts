@@ -2,7 +2,7 @@ import { startOfHour } from 'date-fns';
 import Appointment from '../models/Appointment';
 import AppointmentsRepository from '../repositories/AppointmentsRepository';
 
-interface RequestDTO {
+interface Request {
   provider: string;
   date: Date;
 }
@@ -14,7 +14,7 @@ class CreateAppointmentService {
     this.appointmentsRepository = appointmentRepository;
   }
 
-  public execute({ provider, date }: RequestDTO): Appointment {
+  public execute({ provider, date }: Request): Appointment {
     const appointmentDate = startOfHour(date);
 
     const findAppointmentInSame = this.appointmentsRepository.findByDate(

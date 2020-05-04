@@ -1,4 +1,3 @@
-<div style="background-color: #666">
   <h1 align="center">
       <img src="https://ik.imagekit.io/911o9a87sc/node_E0Z8dA8cB.png" width="320" height="205">
   </h1>
@@ -49,10 +48,8 @@
 
   ---
 
-  Feito por Renan Portugal do Rio
+  <h3 align="center">Feito por Renan Portugal do Rio</h3>
 
-   <h1 align="left">
+   <h1 align="center">
       <img src="https://ik.imagekit.io/911o9a87sc/logo_ytBUeCmpV.png"  width=200 height=250>
   </h1>
-
-</div>
