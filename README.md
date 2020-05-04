@@ -50,8 +50,9 @@
   ---
 
   Feito por Renan Portugal do Rio
+
    <h1 align="left">
-      <img src="public/logo.png">
+      <img src="https://ik.imagekit.io/911o9a87sc/logo_ytBUeCmpV.png"  width=200 height=250>
   </h1>
 
 </div>
