@@ -34,13 +34,15 @@ export default class AlterProvideFiledToProvideId1588871201487
 
   public async down(queryRunner: QueryRunner): Promise<void> {
     await queryRunner.dropForeignKey('appointments', 'AppointmentProvider');
+
     await queryRunner.dropColumn('appointments', 'provider_id');
-    await queryRunner.addColumn(
+
+    /* await queryRunner.addColumn(
       'appointments',
       new TableColumn({
         name: 'id',
         type: 'uuid',
       }),
-    );
+    ); */
   }
 }
