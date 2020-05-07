@@ -36,7 +36,6 @@ export default class AlterProvideFiledToProvideId1588871201487
     await queryRunner.dropForeignKey('appointments', 'AppointmentProvider');
 
     await queryRunner.dropColumn('appointments', 'provider_id');
-
     /* await queryRunner.addColumn(
       'appointments',
       new TableColumn({
