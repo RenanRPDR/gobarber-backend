@@ -9,7 +9,7 @@
 
   ## 💬️ Sobre
 
-  Nessa parte do projeto aprendi um poucos mais sobre: Banco de dados, cadastro de usuários, autenticação, upload de arquivos e tratamento de exceções. No início foi um pouco confuso  por causa do Typescript mais depois de algumas implementações tudo se encaixou perfeitamente.
+  Esse projeto faz parte do back-end da aplição GoBarber que está sendo desenvolvida ao longo do bootcamp "GoStack" da Rocketseat. Com ele estão sendo trabalhados conceitos fundamentais para desenvolvimento de um "clean code" com arquitetura SOLID. Nessa parte foram trabalhados os seguintes tópicos: Banco de dados, cadastro de usuários, autenticação, upload de arquivos e tratamento de exceções.
 
    ## 👨‍💻️ Implementações e configurações realizadas:
   - Uso do TypeORM para realizar abstração do banco de dados ✔️;
