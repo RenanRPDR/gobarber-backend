@@ -1,2 +1,6 @@
 node_modules
 ANOTACOES-IMPORTANTES.txt
+build/
+
+tmp/*
+!tmp/.gitkeep
