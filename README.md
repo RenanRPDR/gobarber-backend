@@ -9,9 +9,9 @@
 # Indice
 - [Sobre](#-sobre)
 - [Implementações e configurações realizadas](#-implementações-e-configurações-realizadas)
-- [Tecnologias e lib's](#-tecnologias-e-lib's)
+- [Tecnologias e lib's](#-tecnologias-e-libs)
 - [Ferramentas](#-ferramentas)
-- [Como baixar e rodar o projeto ?](#-como-baixar-e-rodar-o-projeto-?)
+- [Como baixar e rodar o projeto ?](#-como-baixar-e-rodar-o-projeto)
 
 ## 💬️ Sobre
 
@@ -19,7 +19,7 @@ Esse projeto faz parte do back-end da aplição GoBarber que está sendo desenvo
 
 ---
 
-## 👨‍💻️ Implementações e configurações realizadas:
+## 👨‍💻️ Implementações e configurações realizadas
 - Uso do TypeORM para realizar abstração do banco de dados ✔️;
 - Criação de container de um banco de dados PostgreSQL utilizando Docker ✔️;
 - Customização de regras no eslint para evitar erros ✔️;
@@ -47,7 +47,7 @@ Esse projeto faz parte do back-end da aplição GoBarber que está sendo desenvo
 
 ---
 
-## 🚀 Tecnologias e lib's
+## 🚀 Tecnologias e libs
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
@@ -73,7 +73,7 @@ Ferramentas utilizadas nesse projeto:
 
 ---
 
-## 🗂 Como baixar e rodar o projeto ?
+## 🗂 Como baixar e rodar o projeto
 
 <p>O banco de dados está rodando em um "Docker" para fins de estudo, vamos fazer a instalação e a configuração dessa base de dados com a aplicação.</p>
 
