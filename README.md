@@ -85,7 +85,7 @@
       $ git clone https://github.com/RenanRPDR/GoStack11-iniciando-back-end.git
 
       # Entre no diretório "primeiro-projeto-node"
-      $ cd cd GoStack11-iniciando-back-end/
+      $ cd GoStack11-iniciando-back-end/
 
       # Rode um yarn para instalar as dependências do projeto
       $ yarn install
