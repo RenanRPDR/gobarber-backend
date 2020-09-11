@@ -35,6 +35,7 @@ class AuthenticateUserService {
     // Compare password
     // password: no-cryrpt
     // user.password: is crypted
+    // test
     const passwordMatched = await compare(password, user.password);
 
     if (!passwordMatched) {
