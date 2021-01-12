@@ -3,5 +3,6 @@ ANOTACOES-IMPORTANTES.txt
 requisitos.md
 build/
 
+coverage/*
 tmp/*
 !tmp/.gitkeep
